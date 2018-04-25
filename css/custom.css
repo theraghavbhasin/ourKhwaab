@@ -1,0 +1,28 @@
+html {margin-top:33px !important;}
+* html body{margin-top: 33px !important;}
+
+.s-header {
+  margin-top: 50px;
+}
+
+#fixed-top-wrap{
+   background-color: rgb(233,139,52);
+   height:auto;
+   position:fixed;
+   top:0;
+   left:0;
+   z-index:999;
+   width:100%;
+}
+#fixed-top{
+  font-family: inherit;
+   width:100%;
+   position:relative;
+   margin:0 auto;
+   line-height:50px;
+   height:auto;
+   font-size:18px;
+   color:#fff;
+   font-size: 18px;
+   text-align:center;
+}
